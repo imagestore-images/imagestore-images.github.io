@@ -1,0 +1,144 @@
+body{
+    margin: 0px;
+    font-family: Arial;
+}
+
+*{
+    -webkit-tap-highlight-color: transparent;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    height: 80px;
+    background: linear-gradient(#ebf7f9, #bde8ef);
+}
+
+nav img{
+    width: 60px;
+}
+
+nav button{
+    background-color: transparent;
+    border: 0px;
+    transition: 0.4s;
+    color: rgb(115, 115, 115);
+    height: 60px;
+}
+
+nav button:hover{
+    border-bottom: 2px solid rgba(155, 155, 155, .8);
+    cursor: pointer;
+}
+
+nav h1{
+    color: rgb(115, 115, 115);
+    font-weight: normal;
+}
+
+
+
+input{
+    background-color: transparent;
+    border: 0px;
+    border-bottom: 2px solid #bde8ef;
+    outline: none;
+    padding: 10px;
+    font-size: 15px;
+}
+
+input:focus{
+    background-color: #ebf7f9;
+}
+
+button{
+    background-color: white;
+    /* border: 0px; */
+    border: 1px solid #bde8ef;
+    outline: none;
+    padding: 10px;
+    font-size: 15px;
+    margin: 5px;
+}
+
+button:active{
+    background-color: #ebf7f9;
+    cursor: pointer;
+}
+
+nav button{
+    margin: 0px;
+}
+
+
+.card{
+    background: whitesmoke;
+    min-height: 100px;
+    width: 70%;
+    border: 1px solid dimgray;
+    color: rgba(115, 115, 115, .8);
+    padding: 10px;
+    box-shadow: 5px 12px 10px rgba(115, 115, 255, .5);
+}
+
+
+.planel-clickable{
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    height: 50px;
+    padding: 5px;
+    background-color: #ebf7f9;
+    color: rgb(115, 115, 115);
+    border: 1px solid #bde8ef;
+    border-left-width: 4px;
+    margin: 20px;
+}
+
+.planel-clickable:active{
+    background-color: #bde8ef;
+}
+
+.planel-clickable img{
+    width: 30px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+
+.images{
+    min-height: 205px;
+    max-height: 700px;
+    width: 300px;
+    background-color: whitesmoke;
+    border: 1px solid #bde8ef;
+    color: rgb(115, 115, 115);
+    padding-top: 20px;
+}
+
+.images img{
+    width: 250px;
+    border: 1px solid #bde8ef;
+}
+
+.images p{
+    font-size: 13px;
+}
+
+.images summary{
+    list-style: none;
+}
+
+.images:hover{
+    background-color: #ebf7f9;
+}
+
+.images:active{
+    background-color: #bde8ef;
+}
+
+a{
+    color: dodgerblue;
+    text-decoration: none;
+    font-style: oblique;
+}

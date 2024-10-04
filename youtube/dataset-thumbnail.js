@@ -1,0 +1,7 @@
+// this is the data set for adding image
+add_Image('Blueray', 'Blueray is an professional grade thumbnail template for YouTube thumbnails. Best suited for education or tips videos.','YouTube - Education, Business', 'YouTube Thumbnails', '/service/youtube/thumbnails/blueray.png');
+add_Image('Pinegrade', 'Pinegrade is an professional modification of Blueray for YouTube thumbnails and for feeling like mint.','YouTube - Education, Business', 'YouTube Thumbnails', '/service/youtube/thumbnails/pinegrade.png');
+add_Image('Red Apple', 'Red Apple is an professional YouTube Thumbnail template for creating a vlog like video, Eg :- Cooking , Tour, Vlog etc.','YouTube - Vlog, Tutorial, Education', 'YouTube Thumbnails', '/service/youtube/thumbnails/redapple.png');
+add_Image('Conpy', 'Conpy is an highly contrasty template designed for courses and tutorial videos specfiaclly about Computers or anything you want.','YouTube - Tutorial, Education', 'YouTube Thumbnails', '/service/youtube/thumbnails/conpy.png');
+add_Image('Pinger', 'Pinger is an professional grade youtube thumbnail template for creating Education based contant on yht YouTube','YouTube - Tutorial, Education', 'YouTube Thumbnails', '/service/youtube/thumbnails/pinger.png');
+add_Image('RedKit', 'RedKit is an professional grade youtube thumbnail template for Advertising on YouTube or promiting any brand','YouTube - Advertising, Brand Promo', 'YouTube Thumbnails', '/service/youtube/thumbnails/redkit.png');
